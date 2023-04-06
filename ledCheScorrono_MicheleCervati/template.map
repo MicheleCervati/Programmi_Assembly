@@ -1,0 +1,46 @@
+MPLINK 4.40, Linker
+Linker Map File - Created Tue Apr 04 06:50:54 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00003e
+  .config_2007_TEMPLATE.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000022      
+                            0x002007    0x002007      
+            33 out of 1094 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Destra   0x000010    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+          InizioLampeggio   0x00000a    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                     Main   0x000005    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+          RitardoMezzoSec   0x000015    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                 Sinistra   0x00000c    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                    loop1   0x00001a    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     Main   0x000005    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+          InizioLampeggio   0x00000a    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                 Sinistra   0x00000c    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                   Destra   0x000010    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+          RitardoMezzoSec   0x000015    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+                    loop1   0x00001a    program     static C:\Users\miche\Desktop\ledCheScorrono_MicheleCervati\template.asm
+
+
